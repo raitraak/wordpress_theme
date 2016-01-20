@@ -1,2 +1,4 @@
 Lecture Description
-In this lecture, we'll download the course files and I'll explain the contents of each of the folders.
+In this lecture, I'll show you how to correctly set up your production environment.
+
+There are no available downloads for this lecture.
