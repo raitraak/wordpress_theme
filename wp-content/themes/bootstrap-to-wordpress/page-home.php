@@ -4,7 +4,6 @@
 */
 
 get_header(); ?>
-
 	<!-- HERO
     ================================================== -->
 	<section id="hero" data-type="background" data-speed="5">
