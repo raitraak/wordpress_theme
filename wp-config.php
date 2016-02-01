@@ -59,7 +59,7 @@ define('NONCE_SALT',       'FveI(%qXA&REHgm%3)0^:<)ffeY +GOOFN+p,&<1ZK57vIw*J<Jw
  * You can have multiple installations in one database if you give each a unique
  * prefix. Only numbers, letters, and underscores please!
  */
-$table_prefix  = 'dbbs_';
+$table_prefix  = 'db_';
 
 /**
  * For developers: WordPress debugging mode.
