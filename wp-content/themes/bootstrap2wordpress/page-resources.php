@@ -54,8 +54,7 @@ $thumbnail_url	= wp_get_attachment_url( get_post_thumbnail_id( $post->ID ) );
 						<div class="resource">
 
 							<img src="<?php echo $resource_image[url]; ?>" alt="<?php echo $resource_image[alt]; ?>">
-							
-							
+
 							<h3><a href="<?php echo $resource_url; ?>"><?php the_title(); ?></a></h3>
 							<?php the_content(); ?>
 				    	
